@@ -4,7 +4,9 @@ This project creates an interactive and visually engaging cursor disaster effect
 
 ## Demo
 
-![Demo link](https://forloopcodes.github.io/cursor-disaster/)
+![image](https://github.com/ForLoopCodes/cursor-disaster/assets/89027512/3d0f525f-6970-4de8-88ed-38b62c848cc7)
+
+[Demo link](https://forloopcodes.github.io/cursor-disaster/)
 
 ## Description
 
